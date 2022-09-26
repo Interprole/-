@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-26T18:38:01+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-26T19:35:59+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,7 +7,7 @@
             MEDIA_URL="file:///C:/Users/glebb/Documents/duginelan/dugin.mp4"
             MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./dugin.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:8a23535c-26ab-403f-8ceb-cfbf232e1b2b</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">56</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">61</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1370"/>
@@ -52,7 +52,7 @@
         <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="36900"/>
         <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="38420"/>
         <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="38420"/>
-        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="43430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="43270"/>
         <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="43430"/>
         <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="45540"/>
         <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="46210"/>
@@ -71,17 +71,27 @@
         <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="55920"/>
         <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="55920"/>
         <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="56190"/>
-        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="57860"/>
-        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="58280"/>
-        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="58940"/>
-        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="59260"/>
-        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="60220"/>
-        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="60890"/>
-        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="64400"/>
-        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="64730"/>
-        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="65420"/>
-        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="65690"/>
-        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="73080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="56190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="57860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="58280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="58940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="59260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="60220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="60890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="64400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="64730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="65420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="65690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="66580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="66840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="69070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="69150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="70670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="70670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="71670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="71680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="73080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="73080"/>
     </TIME_ORDER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
     <TIER ANNOTATOR="@gnb2004m" DEFAULT_LOCALE="ru"
@@ -160,37 +170,37 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
-                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts63">
                 <ANNOTATION_VALUE>и который в принципе //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
-                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts65">
                 <ANNOTATION_VALUE>вообще //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
-                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts67">
                 <ANNOTATION_VALUE>говоря хочет //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
-                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
                 <ANNOTATION_VALUE>хоть как-то попытаться обосновать факт своего //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
-                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts71">
                 <ANNOTATION_VALUE>наличия //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
-                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts81">
                 <ANNOTATION_VALUE>и присутствия / ну о присутствии конечно говорить / трудно потому присутствие этимологически как и немецкое unwesen означает быть при сути //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -312,7 +322,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
                 TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
-                <ANNOTATION_VALUE>∙∙ То есть на самом деле он абсолютно ∙∙ \фундамента̲лен.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>∙∙ То есть на самом деле он абсолю-утно ∙∙ \фундамента̲лен.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -378,13 +388,13 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
                 TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts48">
-                <ANNOTATION_VALUE>∙∙ Он ∙∙ /абсолю̲тно неизбежен ∙∙∙ для нашего \мировоззре̲ния.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>∙∙ Он ∙∙ абсолю-утно неизбе-ежен ∙∙∙ для нашего ∙∙ \мировоззре̲ния.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
                 TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts53">
-                <ANNOTATION_VALUE>∙∙ Он /\необходи̲м ∙∙ для любого \челове̲ка, </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>∙∙ Он /\необход̲и̲-̲и̲м ∙∙ для ∙∙ любого человека, </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -397,6 +407,36 @@
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
                 TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts60">
                 <ANNOTATION_VALUE>который живет в сегодняшней ∙∙ /Росси̲и,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>∙∙ и который ∙∙ в принципе ∙∙ вообще ∙∙ говоря хочет ∙∙∙ хоть /к̲а̲-̲а̲к-то ∙∙ попытаться обосновать ∙∙ факт своего ∙∙ нали-ичия ∙∙ и присутствия.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts75">
+                <ANNOTATION_VALUE>∙∙ Ну о присутствии конечно говорить ∙∙ /тр̲у̲-̲у̲дно,,,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts77">
+                <ANNOTATION_VALUE>∙∙ потому что присутствие этимологически</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
+                TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts79">
+                <ANNOTATION_VALUE>(как и немецкое unwesen)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>означает быть при /с̲у̲-̲у̲ти.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
