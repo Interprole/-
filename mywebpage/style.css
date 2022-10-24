@@ -1,0 +1,7 @@
+BODY {background: snow; color: black}
+H1 {color: black}
+H3 {color: blue}
+A:link {color: blue; text-decoration: none}
+A:visited {color: blue; text-decoration: none}
+A:hover {color: blue; text-decoration: underline}
+A:active {color: orange; text-decoration: underline}
