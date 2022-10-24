@@ -1,7 +1,54 @@
 BODY {background: snow; color: black}
-H1 {color: black}
-H3 {color: blue}
-A:link {color: blue; text-decoration: none}
-A:visited {color: blue; text-decoration: none}
-A:hover {color: blue; text-decoration: underline}
-A:active {color: orange; text-decoration: underline}
+H1 {
+	color: black;
+	border-radius: 5px;
+	background-color: white;
+	border: 1px solid gray;
+	background-size: 12px 12px;
+    letter-spacing: 1px;
+    padding: 15px 20px;
+    font-size: 30px;
+	text-align:center;
+	margin-top: 1em;
+	margin-bottom: 1em;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+	}
+H3 {
+	color: black;
+	border-radius: 10px;
+	border: 1px solid gray;
+    background-color: white;
+	background-size: 12px 12px;
+    letter-spacing: 1px;
+    padding: 15px 20px;
+    font-size: 30px;
+	margin-top: 1em;
+	margin-bottom: 1em;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+	}
+A {
+	border-radius: 20px;
+	border: 1px solid gray;
+    background-color: white;
+	background-size: 12px 12px;
+	color: blue; 
+	text-decoration: none;
+    display: inline-block;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 15px 20px;
+    font-size: 20px;
+	margin-top: 1em;
+	margin-bottom: 1em;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    transition: 0.4s ease-in-out;
+	box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+   }
+A:hover {
+	color: orange; 
+    margin: 15px 25px;
+   }
+IMG:hover{}
