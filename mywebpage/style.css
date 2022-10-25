@@ -1,4 +1,5 @@
-BODY {background: snow; color: black}
+BODY {background: snow; color: black; font-family: 'Montserrat', sans-serif;
+}
 H1 {
 	color: black;
 	border-radius: 5px;
@@ -13,20 +14,40 @@ H1 {
 	margin-bottom: 1em;
     font-weight: bold;
     font-family: 'Montserrat', sans-serif;
+	transition:all 0.4s ease-in-out;
 	}
+TABLE {
+	background-size: 12px 12px;
+    font-family: 'Montserrat', sans-serif;
+	letter-spacing: 1px;
+	
+	}
+TH, TD {
+   border: 1px solid grey;
+   border-radius: 10px;
+   background: azure;
+   box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+   transition:all 0.2s ease-in-out;
+}
+TH:hover, TD:hover {
+	background: antiquewhite;
+}
+.block{display:grid; grid-template-columns:243px 1fr;
+grid-column-gap:20px;}
 H3 {
 	color: black;
 	border-radius: 10px;
 	border: 1px solid gray;
     background-color: white;
-	background-size: 12px 12px;
+    margin-bottom: 0px;
+	margin-top: 0px;
     letter-spacing: 1px;
-    padding: 15px 20px;
+    padding: 15px 15px;
     font-size: 30px;
-	margin-top: 1em;
-	margin-bottom: 1em;
     font-weight: bold;
     font-family: 'Montserrat', sans-serif;
+	transition:all 0.4s ease-in-out;
+	display: block;
 	}
 A {
 	border-radius: 20px;
@@ -44,11 +65,34 @@ A {
 	margin-bottom: 1em;
     font-weight: bold;
     font-family: 'Montserrat', sans-serif;
-    transition: 0.4s ease-in-out;
+    transition:all 0.4s ease-in-out;
 	box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
    }
 A:hover {
 	color: orange; 
-    margin: 15px 25px;
+    margin: 15px 15px;
    }
-IMG:hover{}
+H1:hover, H3:hover {background: antiquewhite;
+}
+.conts {
+	display:none;
+	transition:all 0.4s ease-in-out;
+}
+.conts:hover{
+	display: inline-block;
+}
+.table:hover{
+	display: table;
+
+}
+.table{
+	transition:all 0.4s ease-in-out;
+	display: none;
+}
+.education:hover ~ .table {
+	display: table;
+}
+.contacts:hover ~ .conts {
+	display: inline-block;
+}
+
