@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-11-12T15:18:37+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-11-14T21:51:01+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -9157,8 +9157,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a1733" ANNOTATION_REF="a1510" CVE_REF="cveid_aa61a0a9-df07-4edd-8305-952db57f73fa">
-                <ANNOTATION_VALUE>PART</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a1733" ANNOTATION_REF="a1510" CVE_REF="cveid_97290968-4288-4d05-bbc7-ec54ca729924">
+                <ANNOTATION_VALUE>VERB</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10372,8 +10372,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a2204" ANNOTATION_REF="a2023" CVE_REF="cveid_2292f705-1fd8-4a21-b894-6184c91e752f">
-                <ANNOTATION_VALUE>INTJ</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a2204" ANNOTATION_REF="a2023" CVE_REF="cveid_aa61a0a9-df07-4edd-8305-952db57f73fa">
+                <ANNOTATION_VALUE>PART</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15920,7 +15920,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3342" ANNOTATION_REF="a1080">
-                <ANNOTATION_VALUE>мож</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>мочь</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18722,7 +18722,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4637" ANNOTATION_REF="a594">
-                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>_</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19107,7 +19107,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4714" ANNOTATION_REF="a879">
-                <ANNOTATION_VALUE>Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>_</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19607,7 +19607,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4814" ANNOTATION_REF="a1080">
-                <ANNOTATION_VALUE>_</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20457,7 +20457,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4984" ANNOTATION_REF="a1580">
-                <ANNOTATION_VALUE>_</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20902,7 +20902,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5073" ANNOTATION_REF="a1918">
-                <ANNOTATION_VALUE>Abbr=Yes</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>_</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
