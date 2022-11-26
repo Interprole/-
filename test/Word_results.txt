@@ -1,0 +1,2 @@
+Type	POS	Headword	Rank	Freq	Range	NormFreq	NormRange
+по			1	49	1	10418.882	1.000
